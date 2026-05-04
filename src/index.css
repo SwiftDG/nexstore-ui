@@ -1,0 +1,12 @@
+/* stylelint-disable */
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #fea928;
+  --color-secondary: #ed8900;
+}
+
+.dark {
+  color-scheme: dark;
+}
