@@ -1,8 +1,8 @@
 # NexStore
-
+## Backend, cart functionality, and payment integration coming in future iterations
 A modern, responsive ecommerce storefront built with React JS and Tailwind CSS.
 
-## Features
+## Current Features
 - Responsive design (mobile first)
 - Dark/Light mode toggle
 - Animated UI with Framer Motion
