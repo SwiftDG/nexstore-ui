@@ -22,8 +22,8 @@ A modern, responsive ecommerce storefront built with React JS and Tailwind CSS.
 ## Run Locally
 
 ```bash
-git clone https://github.com/SwiftDG/nexstore.git
-cd nexstore
+git clone https://github.com/SwiftDG/NexStore.git
+cd NexStore
 npm install
 npm run dev
 ```
