@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itsnexstore.vercel.app/sitemap.xml
